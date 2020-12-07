@@ -15,4 +15,4 @@ Aspirante a programador e sempre em busca de evolução pessoal e profissional
 - React 👌
 - Nunjucks 👌
 
-Note: Mantenho alguns repositórios<br/> com a finalidade de ajudar iniciantes como eu. <br/>Caso seja útil de um follow!<br/> ✅
+Note: Mantenho alguns repositórios<br/> com a finalidade de ajudar iniciantes como eu. <br/>Caso seja útil de um follow! ✅<br/> 
