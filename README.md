@@ -1,16 +1,18 @@
-### Hi there 👋
+# Bem vindo ao meu perfil, tudo bom 🚀?!
 
-<!--
-**caiohrff/caiohrff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirante a programador e sempre em busca de evolução pessoal e profissional
 
-Here are some ideas to get you started:
+## Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# 👌
+- C++ 👌
+- C 👌
+- Java(backend) 👌
+- HTML 👌
+- CSS 👌
+- JavaScript 👌
+- Node.js 👌
+- React 👌
+- Nunjucks 👌
+
+Note: Mantenho alguns repositórios<br/> com a finalidade de ajudar iniciantes como eu. <br/>Caso seja útil de um follow!<br/> ✅
