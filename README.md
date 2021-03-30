@@ -1,6 +1,6 @@
-# Bem vindo ao meu perfil, tudo bom 🚀?!
+# Seja bem vindo 🚀!
 
-Aspirante a programador e sempre em busca de evolução pessoal e profissional
+Um programador e sempre em busca de evolução pessoal e profissional
 
 ## Stacks
 
