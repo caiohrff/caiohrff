@@ -4,16 +4,13 @@ Um programador e sempre em busca de evolução pessoal e profissional
 
 ## Stacks
 
-- C# 
-- C++ 
-- C 
-- Java(backend)
+- Java
 - HTML 
 - CSS 
 - JavaScript 
-- Node.js 
-- React 
-- Nunjucks
+- TypeScript
+- Node
+- Angular
 
 ## Redes
 
