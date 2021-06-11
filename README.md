@@ -1,4 +1,4 @@
-# Seja bem vindo 🚀!
+# Seja bem vindo 🚀
 
 Um programador e sempre em busca de evolução pessoal e profissional
 
