@@ -1,6 +1,6 @@
 # Seja bem vindo 🚀
 
-<p align="left">Um programador e sempre em busca de evolução pessoal e profissional e que adora aprender o novo e poder ajudar!</p>
+<p align="left">Um programador sempre em busca de evolução pessoal e profissional e que adora aprender o novo e poder ajudar!</p>
 
 ###
 
